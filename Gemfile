@@ -16,6 +16,8 @@ gem 'activerecord'
 gem 'rake'
 
 gem 'shotgun'
+gem 'twitter'
+gem 'figaro'
 
 group :test do
   gem 'faker'
